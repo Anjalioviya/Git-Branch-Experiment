@@ -2,5 +2,4 @@
 
 software engineering
 
-This project demonstrates Git collaboration.
-
+This project demonstrates Git branching, merging, and collaboration.
