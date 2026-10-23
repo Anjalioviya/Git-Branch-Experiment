@@ -1,2 +1,6 @@
 # Git-Branch-Experiment
-software engineering 
+
+software engineering
+
+This project demonstrates Git branching and merging.
+
